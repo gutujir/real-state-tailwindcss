@@ -1,12 +1,42 @@
-# React + Vite
+# 🏠 Real Estate Landing Page - Tailwind CSS + React + Framer Motion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive real estate landing page built with **React**, styled using **Tailwind CSS**, and animated with **Framer Motion**. Designed to showcase property listings with clean UI and smooth animations — perfect for real estate businesses or frontend developers looking for UI inspiration.
 
-Currently, two official plugins are available:
+## ✨ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔥 Built with **React** and **Vite** for fast development
+- 🎨 Styled with **Tailwind CSS** for utility-first responsiveness
+- 🧩 Animated using **Framer Motion** for smooth transitions
+- 📱 Fully responsive on all devices
+- 💡 Clean, minimal, and developer-friendly codebase
 
-## Expanding the ESLint configuration
+## 🚀 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React** – Frontend framework
+- **Tailwind CSS** – Utility-first CSS
+- **Framer Motion** – Declarative animations for React
+- **Vite** – Fast and optimized build tool (optional if used)
+
+## 📸 Screenshots
+
+![Header](./src/assets/screenshots/hero_section.png)
+![About](./src/assets/screenshots/about_section.png)
+![Projects](./src/assets/screenshots/projects_section.png)
+![Testimonials](./src/assets/screenshots/testimonial_section.png)
+![Contact](./src/assets/screenshots/contact_section.png)
+
+<!-- Add actual screenshots from your project -->
+
+## 🛠️ Installation & Setup
+
+```bash
+# Clone the repository
+git clone https://github.com/your-username/real-state-tailwindcss.git
+cd real-state-tailwindcss
+
+# Install dependencies
+npm install
+
+# Run the development server
+npm run dev
+```
